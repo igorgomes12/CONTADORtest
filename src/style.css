@@ -1,0 +1,20 @@
+.App {
+    background: black;
+    width: 100%;
+    height: 100%;
+
+    align-items: center;
+    display: flex-direction;
+    color: white;
+    text-align: center;
+
+}
+
+.btnAumentar {
+
+    color: green;
+}
+
+.btnDiminuir {
+    color: red
+}
